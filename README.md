@@ -50,14 +50,14 @@
 ## 📊 Mis Estadísticas de GitHub 📊
 
   <br/>
-    <a href="https://github.com/PepeMola/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PepeMola/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeMola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/PepeMola/github-readme-stats"><img alt="PepeMola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PepeMola/github-readme-stats"><img alt="PepeMola's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeMola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan la experiencia ni el nivel de habilidad.  
 <br/>
 <br/>
 
-<a href="https://github.com/PepeMola/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PepeMola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/PepeMola/github-readme-activity-graph"><img alt="PepeMola's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PepeMola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
