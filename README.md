@@ -1,10 +1,12 @@
+
 ![https://github.com/PepeMola](pepe-mola-banner.png)
+
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy PepeMola</h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Intentando ser Full-Stack Developer.</h3>
 
 
-## 🙋‍♂️ Sobre mi
+## 🙋‍♂️ Sobre mi 🙋‍♂️
 
 - 🔭 Actualmente estoy finalizando mis estudios en la **[Universidad de Castilla-La Mancha](https://www.uclm.es/)**
 
@@ -16,7 +18,7 @@
 
 - ⚡ En mi tiempo libre suelo **hacer deporte** o difrutar de una de mis pasiones, **el cine.**
 
-## 🚀 Lenguajes y Herramientas:
+## 🚀 Lenguajes 🚀 Herramientas 🚀 Entornos de Desarrollo 🚀
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -45,7 +47,7 @@
     </a>
 </p>
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mis Estadísticas de GitHub 📊
 
   <br/>
     <a href="https://github.com/PepeMola/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -60,7 +62,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## ⚡ Connect with me ⚡
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jose-antonio-arias-ramos/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -69,7 +71,7 @@
 
 </p>
 
-## ❤ Followers
+## ❤ Followers ❤
 
 ![GitHub Followers](https://img.shields.io/github/followers/PepeMola?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pepemola_?style=social)](https://twitter.com/pepemola_) 
