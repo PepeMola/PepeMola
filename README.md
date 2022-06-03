@@ -5,7 +5,7 @@
 
 ![https://github.com/PepeMola](pepe-mola-banner.png)
 
-<h3 align="center">Intentando ser Full-Stack Developer.</h3>
+<h3 align="center">Full-Stack Developer.</h3>
 
 
 ## 🙋‍♂️ Sobre mi 🙋‍♂️
@@ -58,6 +58,7 @@
 ## 📊 Mis Estadísticas de GitHub 📊
 
   <br/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeMola)](https://github.com/anuraghazra/github-readme-stats)
     <a href="https://github.com/PepeMola/github-readme-stats"><img alt="PepeMola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="https://github.com/PepeMola/github-readme-stats"><img alt="PepeMola's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeMola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
