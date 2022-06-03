@@ -18,9 +18,6 @@
 - ⚡ En mi tiempo libre suelo **hacer deporte** o difrutar de una de mis pasiones, **el cine.**
 
 
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 ## 🚀 Lenguajes 🚀 Herramientas 🚀 Entornos de Desarrollo 🚀
 
 <p align="center"> 
@@ -51,18 +48,11 @@
 </p>
 
 ## 📊 Mis Estadísticas de GitHub 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeMola)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-    <a href="https://github.com/PepeMola/github-readme-stats"><img alt="PepeMola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/PepeMola/github-readme-stats"><img alt="PepeMola's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeMola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan la experiencia ni el nivel de habilidad.  
+[![Pepe Mola's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeMola&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
-
-<a href="https://github.com/PepeMola/github-readme-activity-graph"><img alt="PepeMola's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PepeMola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
+<b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan la experiencia ni el nivel de habilidad.  
 <br/>
 
 ## ⚡ Connect with me ⚡
