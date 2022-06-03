@@ -10,14 +10,15 @@
 
 ## 🙋‍♂️ Sobre mi 🙋‍♂️
 
+- 🚀 Software Developer en prácticas en CGI España.
 
-- 🔭 Actualmente estoy finalizando mis estudios en la **[Universidad de Castilla-La Mancha](https://www.uclm.es/)**
+- 🔭 Actualmente estoy finalizando mis estudios en la **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
 
 - 🌱 *_Casi_* Graduado en **Ingeniería Informática**, especializado en *__Ingeniería Software__*
 
 - 👨‍💻 Algunos de mis repositorios los podéis encontrar aquí, en mi cuenta de GitHub.
 
-- 📫 Mi mail personal es **pepe.7.mola@gmail.com**
+- 📫 Mi mail personal es **jose.antonio.arias.ramos@gmail.com**
 
 - ⚡ En mi tiempo libre suelo **hacer deporte** o difrutar de una de mis pasiones, **el cine.**
 
@@ -50,7 +51,7 @@
 
 <p align="center">
     <a href="https://github.com/PepeMola/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PepeMola&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PepeMola&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
