@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ Sobre mi 🙋‍♂️
 
-- 🚀 Software Developer en prácticas en CGI España.
+- 🚀 **Consultor IT en CGI España.**
 
-- 🔭 Actualmente estoy finalizando mis estudios en la **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
+- 🔭 Estudios realizados en **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
 
-- 🌱 *_Casi_* Graduado en **Ingeniería Informática**, especializado en *__Ingeniería Software__*
+- 🌱 Graduado en **Ingeniería Informática**, especializado en *__Ingeniería Software__*
 
 - 👨‍💻 Algunos de mis repositorios los podéis encontrar aquí, en mi cuenta de GitHub.
 
