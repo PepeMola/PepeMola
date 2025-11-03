@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ Sobre mi 🙋‍♂️
 
-- 🚀 **Consultor IT en CGI España.**
+- 🚀 **Software Engineer at Capgemini**
 
 - 🔭 Estudios realizados en **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
 
