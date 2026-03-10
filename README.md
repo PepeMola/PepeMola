@@ -1,6 +1,6 @@
 ![https://github.com/PepeMola](pepe-mola-banner.png)
 
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 ## 🙋‍♂️ Sobre mi 🙋‍♂️
@@ -46,14 +46,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PepeMola&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 Mis Estadísticas de GitHub 📊
-[![Pepe Mola's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeMola&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeMola&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-<b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan la experiencia ni el nivel de habilidad.  
-<br/>
 
 ## ⚡ Connect with me ⚡
 <p align="left">
