@@ -1,11 +1,11 @@
 ![https://github.com/PepeMola](pepe-mola-banner.png)
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Backend Engineer +4 years of Experience</h3>
 
 
 ## 🙋‍♂️ Sobre mi 🙋‍♂️
 
-- 🚀 **Software Engineer at Capgemini**
+- 🚀 **Software Backend Engineer at Capgemini**
 
 - 🔭 Estudios realizados en **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
 
@@ -42,7 +42,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jose-antonio-arias-ramos/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/pepemola_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/pepe_mola/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
@@ -50,4 +49,3 @@
 ## ❤ Followers ❤
 
 ![GitHub Followers](https://img.shields.io/github/followers/PepeMola?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pepemola_?style=social)](https://twitter.com/pepemola_) 
