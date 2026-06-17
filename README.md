@@ -38,15 +38,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
 </p>
 
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/PepeMola/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PepeMola&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## ⚡ Connect with me ⚡
 <p align="left">
 
