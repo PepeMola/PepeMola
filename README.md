@@ -1,42 +1,59 @@
 ![https://github.com/PepeMola](pepe-mola-banner.png)
 
-<h3 align="center">Backend Engineer +4 years of Experience</h3>
+<h3 align="center">Backend Software Engineer | Java & Spring Specialist</h3>
+<h3 align="center">Architecture • DevOps • AI</h3>
+
+---
+
+# 🙋‍♂️ About me
+I design and build **scalable backend systems** where architecture, performance, DevOps, and AI work together — not in isolation.
 
 
-## 🙋‍♂️ Sobre mi 🙋‍♂️
+- 🚀 **Backend Software Engineer at Capgemini**
 
-- 🚀 **Software Backend Engineer at Capgemini**
+- 🔭 I studied at **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
 
-- 🔭 Estudios realizados en **[Universidad de Castilla-La Mancha](https://www.uclm.es/)** 
+- 🌱 Graduate in **Computer Engineering**, specialized in *__Software Engineering__*
 
-- 🌱 Graduado en **Ingeniería Informática**, especializado en *__Ingeniería Software__*
-
-- 👨‍💻 Algunos de mis repositorios los podéis encontrar aquí, en mi cuenta de GitHub.
-
-- 📫 Mi mail personal es **jose.antonio.arias.ramos@gmail.com**
-
-- ⚡ En mi tiempo libre suelo **hacer deporte** o difrutar de una de mis pasiones, **el cine.**
+- 📫 My personal email is **jose.antonio.arias.ramos@gmail.com**
 
 
-## 🚀 Lenguajes 🚀 Herramientas 🚀 Entornos de Desarrollo 🚀
+---
 
-<p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://azure.microsoft.com/es-es/services/devops/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png"/> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-</p>
+## 🧠 What I Do
+
+- 🏗️ Design **microservices architectures** (MVC, DDD, CQRS, SAGA)
+- ⚡ Build **reactive systems** with Spring WebFlux & Project Reactor
+- 🔁 Develop **event-driven systems** with Kafka & RabbitMQ
+- 🤖 Integrate **AI into real systems** (LLM agents, automation workflows)
+- 🚀 Apply **DevOps practices**: Docker, cloud, production-ready systems
+
+---
+
+## ⚙️ Tech Stack
+
+### 👨‍💻 Backend
+- Java, Spring Framework (Spring Boot, Spring WebFlux, Spring Security, Spring Batch).
+- REST APIs, Reactive Programming, High-performance systems.
+
+### 🏗️ Architecture
+- Microservices, MVC, DDD, CQRS, SAGA
+- Clean Architecture, scalable system design
+
+### 🔁 Messaging & Data
+- Apache Kafka, RabbitMQ
+- PostgreSQL, Oracle, MongoDB, Redis
+
+### ⚙️ DevOps & Cloud
+- Docker, Docker Compose
+- Private VPS management
+- AWS / GCP (S3, IAM, Compute, etc.)
+
+### 🤖 AI Engineering
+- LLM-based agents
+- AI-driven development workflows
+
+---
 
 ## ⚡ Connect with me ⚡
 <p align="left">
@@ -45,7 +62,3 @@
 <a href = "https://www.instagram.com/pepe_mola/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## ❤ Followers ❤
-
-![GitHub Followers](https://img.shields.io/github/followers/PepeMola?style=social)
